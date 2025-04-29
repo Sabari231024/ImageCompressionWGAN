@@ -3,6 +3,9 @@
 
 This report presents the visual and quantitative results of an image compression framework based on **Wasserstein GAN (WGAN)** and **Linformer** attention mechanisms. The approach focuses on maintaining high visual fidelity while ensuring efficient compression.
 
+The dataset used for this research is CelebaFaceAttribute dataset.
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+
 ---
 
 ## 🖼️ Result 1: Input vs. Reconstructed Image
